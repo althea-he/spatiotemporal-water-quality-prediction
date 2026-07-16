@@ -117,9 +117,4 @@ python STGCN_*.py
 	•	Water quality early warning
 	•	Sustainable water resource planning
 
----
-
-## Author
-
-Athena He
 
